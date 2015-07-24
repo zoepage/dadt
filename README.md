@@ -21,5 +21,6 @@ One-way data binding for templating your HTML per data-attributes
 dadt.scope // defines the scope for the DOM to be rendered
 
 dadt.name // custom data-attributes for your scope
-dadt.name // custom data-attributes for your scope
+dadt.title // custom data-attributes for your scope
+dadt.content // custom data-attributes for your scope
 ````
